@@ -1,2 +1,4 @@
 # Full-Stack-Developer
-Full Stack Web Development  by the  Udemy
+The Complete 2024 Web Development Bootcamp
+Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+I purchased this course on Udemy Jul. 30, 2024 
