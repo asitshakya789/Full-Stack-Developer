@@ -1,0 +1,20 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+  }
+  #color{
+    color: red;
+  }
+  #size{
+    font-size: 2rem;
+  }
+  #weight{
+    font-weight: 900;
+  }
+  #family{
+    font-family: "Caveat", cursive;
+  }
+  #align{
+    text-align: right;
+  }
